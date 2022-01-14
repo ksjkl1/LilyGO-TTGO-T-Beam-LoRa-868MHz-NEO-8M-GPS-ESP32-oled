@@ -1,8 +1,8 @@
 const char *SSID = "TMNL-692331_EXT";
-const char *WiFiPassword = "46U7HUPMD3BMR6NH";
+const char *WiFiPassword = "46U7HUXXXXXXX";
 
 // char ssid[] = "TMNL-692331_EXT";
-// char wifiPassword[] = "46U7HUPMD3BMR6NH";
+// char wifiPassword[] = "46U7HUXXXXXXX";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
 // char username[] = "a180fb10-5bf2-11eb-a2e4-b32ea624e442";
